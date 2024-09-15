@@ -8,3 +8,4 @@ and aerobic conditions to support yttrium and indium complexes.
 - Performed ring-opening polymerization of various cyclic esters
 with the metal complexes in their reduced and oxidized states to
 observe their selectively towards the monomers.
+<img src="chemistry.png?raw=true"/>
